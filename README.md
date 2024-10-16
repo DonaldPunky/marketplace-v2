@@ -6,7 +6,7 @@ An open source NFT marketplace built on Reservoir.
 
 ## About The Project
 
-Reservoir Market v2 is an open source marketplace built with Reservoir APIs that enables access to instant liquidity aggregated from major marketplace. We encourage developers to use this project as a reference for their own implementation or even fork the project and make their own meaningful changes. The project is lightly configurable refer to the configuration variables below. If you're looking for a no-code solution check out our [v1 marketplace](https://github.com/reservoirprotocol/marketplace-v1).
+Reservoir Market v2 is an open source marketplace built with Reservoir APIs that enables access to instant liquidity aggregated from major marketplace. We encourage developers to use this project as a reference for their own implementation or even fork the project and make their own meaningful changes. The project is lightly configurable refer to the configuration variables below. If you're looking for a no-code solution check out our [v1 marketplace](https://github.com/DonaldPunky/marketplace-v1).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,11 +91,3 @@ This is a Next.js app that can be easily deployed using [Vercel](https://vercel.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-## Contact
-
-Twitter: [@reservoir0x](https://twitter.com/reservoir0x)
-Project Link: [Reservoir](https://reservoirprotocol.github.io/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
